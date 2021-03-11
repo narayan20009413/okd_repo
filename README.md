@@ -1,1 +1,1 @@
-# okd_repo
+to test okd plateform 
